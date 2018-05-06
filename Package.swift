@@ -8,6 +8,6 @@ let package = Package(
         // A provider for including Fluent in Vapor applications
         .package(url: "https://github.com/vapor/fluent-provider.git", .upToNextMajor(from: "1.3.0")),
         // A web framework and server for Swift that works on macOS and Ubuntu.
-        .package(url: "https://github.com/vapor/vapor.git", .upToNextMajor(from: "2.4.4")),
+        .package(url: "https://github.com/vapor/vapor.git", .upToNextMajor(from: "3.0.1")),
     ]
 )
